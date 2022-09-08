@@ -1,7 +1,5 @@
 # rsschool-cv
 
-****
-
 # **Pavel Kotski**
 
 ## Junior Frontend Developer
