@@ -4,11 +4,7 @@
 
 # **Pavel Kotski**
 
-----
-
 ## Junior Frontend Developer
-
----
 
 ## Contact information:
 
@@ -16,13 +12,9 @@
 #### E-mail: [pavelkotsky@gmail.com](pavelkotsky@gmail.com)
 #### Telegram: [@pavelkotski](https://t.me/PavelKotski)
 
-----
-
 ## Briefly About Myself:
 
 #### I’m efficient and highly organized. This enables me to be as productive as possible on the job. I am responsible, communicative, work well individually and in team, willing to develop new skills.
-
----
 
 ## Skills and Proficiency:
 
@@ -32,4 +24,3 @@
 * ##### VS Code
 * ##### Adobe Photoshop,Figma
   
----
