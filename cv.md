@@ -19,4 +19,18 @@
 * ##### Git, GitHub
 * ##### VS Code
 * ##### Adobe Photoshop,Figma
-  
+
+## Code example:
+
+![Convert number to reversed array of digits](\img/Screenshot_27.png "")
+
+## Courses:
+
+* #### SKILLBOX-HTML,CSS
+* #### BELHARD-Front-end using JavaScript and HTML5
+* #### RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+## Languages:
+
+* #### English - A1
+* #### Russian-fluent
