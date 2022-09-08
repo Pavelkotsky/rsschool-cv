@@ -22,7 +22,10 @@
 
 ## Code example:
 
-![Convert number to reversed array of digits](\img/Screenshot_27.png "")
+#### function digitize(n) {
+        let arrNames = n.toString().split("").reverse().map(Number);
+        return arrNames;
+}
 
 ## Courses:
 
